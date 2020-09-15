@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/static/js/main.58f385dc.chunk.js",
+    "main.js.map": "/static/js/main.58f385dc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5da65585.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5da65585.js.map",
+    "static/js/2.4800220c.chunk.js": "/static/js/2.4800220c.chunk.js",
+    "static/js/2.4800220c.chunk.js.map": "/static/js/2.4800220c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3f851c364ddc30568427c3e119eb4e25.js": "/precache-manifest.3f851c364ddc30568427c3e119eb4e25.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.4800220c.chunk.js.LICENSE.txt": "/static/js/2.4800220c.chunk.js.LICENSE.txt",
+    "static/media/apex_fulltext_logo.5f6ca100.svg": "/static/media/apex_fulltext_logo.5f6ca100.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5da65585.js",
+    "static/js/2.4800220c.chunk.js",
+    "static/js/main.58f385dc.chunk.js"
+  ]
+}
