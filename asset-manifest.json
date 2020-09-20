@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/exchange-app/static/js/main.293ebefd.chunk.js",
-    "main.js.map": "/exchange-app/static/js/main.293ebefd.chunk.js.map",
+    "main.js": "/exchange-app/static/js/main.4e8ac968.chunk.js",
+    "main.js.map": "/exchange-app/static/js/main.4e8ac968.chunk.js.map",
     "runtime-main.js": "/exchange-app/static/js/runtime-main.2db9f9a0.js",
     "runtime-main.js.map": "/exchange-app/static/js/runtime-main.2db9f9a0.js.map",
     "static/js/2.d4fd3a38.chunk.js": "/exchange-app/static/js/2.d4fd3a38.chunk.js",
     "static/js/2.d4fd3a38.chunk.js.map": "/exchange-app/static/js/2.d4fd3a38.chunk.js.map",
     "index.html": "/exchange-app/index.html",
-    "precache-manifest.e940c025690dc7e6b1e394b57c3e6643.js": "/exchange-app/precache-manifest.e940c025690dc7e6b1e394b57c3e6643.js",
+    "precache-manifest.da500c0331ecfcbb0a42580b2818d07d.js": "/exchange-app/precache-manifest.da500c0331ecfcbb0a42580b2818d07d.js",
     "service-worker.js": "/exchange-app/service-worker.js",
     "static/js/2.d4fd3a38.chunk.js.LICENSE.txt": "/exchange-app/static/js/2.d4fd3a38.chunk.js.LICENSE.txt",
     "static/media/apex_fulltext_logo.5f6ca100.svg": "/exchange-app/static/media/apex_fulltext_logo.5f6ca100.svg",
@@ -16,6 +16,6 @@
   "entrypoints": [
     "static/js/runtime-main.2db9f9a0.js",
     "static/js/2.d4fd3a38.chunk.js",
-    "static/js/main.293ebefd.chunk.js"
+    "static/js/main.4e8ac968.chunk.js"
   ]
 }
